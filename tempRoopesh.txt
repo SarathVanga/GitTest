@@ -1,2 +1,3 @@
 
 Hi, first line in gitTraining.
+Second line in gitTraining.
