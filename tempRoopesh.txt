@@ -1,0 +1,3 @@
+
+Hi, first line in gitTraining.
+Third line for mergeConflict.
